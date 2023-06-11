@@ -26,6 +26,7 @@ print(sorted_list)
 
 ```
 <hr/>
+
 **Q2. Dictionary, what?**
 Write a program that returns the file type from a file name. The type of the file is determined
 from the extension. Initially, a list of values of the form "extension,type"(e.g. xls,spreadsheet;
@@ -71,6 +72,7 @@ print(type_pairs)
 
 ```
 <hr/>
+
 **Q3. Column Sorting, yay!**
 
 Given a list of dicts, write a program to sort the list according to a key given in input.
@@ -113,6 +115,7 @@ print(sorted_dict_list)
 ```
 
 <hr/>
+
 **Q4. The power of one line -**
 Given a dictionary, switch position of key and values in the dict, i.e., value becomes the key and
 key becomes value. The function's body shouldn't have more than one statement.
@@ -150,6 +153,7 @@ print(new_curr_dict)
 ```
 
 <hr/>
+
 **Q5. Common, Not Common**
 
 Given 2 lists in input. Write a program to return the elements, which are common to both
@@ -187,6 +191,7 @@ print(not_common)
 ```
 
 <hr/>
+
 **Q6. Every other sub-list**
 
 Given a list and 2 indices as input, return the sub-list enclosed within these 2 indices. It should
@@ -214,6 +219,7 @@ print(sub_list)
 ```
 
 <hr/>
+
 **Q7. Calculate the factorial of a number using lambda function.**
 
 ```
@@ -225,6 +231,7 @@ calculated_factorial = getFactorial(num)
 print(calculated_factorial)
 ```
 <hr/>
+
 **Q8. Some neat tricks up her sleeve:**
 
 Looking at the below code, write down the final values of A0, A1, ...An
@@ -296,6 +303,7 @@ else:
 
 ```
 <hr/>
+
 **Q10. Of date and days**
 Write a func that takes 2 args:
 date - string representing a date in the form of 'yy-mm-dd'
