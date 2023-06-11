@@ -25,7 +25,7 @@ sorted_list = f(my_list)
 print(sorted_list)
 
 ```
-
+<hr/>
 **Q2. Dictionary, what?**
 Write a program that returns the file type from a file name. The type of the file is determined
 from the extension. Initially, a list of values of the form "extension,type"(e.g. xls,spreadsheet;
