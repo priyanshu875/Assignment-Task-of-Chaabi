@@ -70,7 +70,7 @@ type_pairs = f(extension_and_type, file_list)
 print(type_pairs)
 
 ```
-
+<hr/>
 **Q3. Column Sorting, yay!**
 
 Given a list of dicts, write a program to sort the list according to a key given in input.
@@ -112,7 +112,7 @@ sorted_dict_list=f( dict_list , sorting_key );
 print(sorted_dict_list)
 ```
 
-
+<hr/>
 **Q4. The power of one line -**
 Given a dictionary, switch position of key and values in the dict, i.e., value becomes the key and
 key becomes value. The function's body shouldn't have more than one statement.
@@ -149,7 +149,7 @@ new_curr_dict=f( curr_dict )
 print(new_curr_dict)
 ```
 
-
+<hr/>
 **Q5. Common, Not Common**
 
 Given 2 lists in input. Write a program to return the elements, which are common to both
@@ -186,7 +186,7 @@ print(common)
 print(not_common)
 ```
 
-
+<hr/>
 **Q6. Every other sub-list**
 
 Given a list and 2 indices as input, return the sub-list enclosed within these 2 indices. It should
@@ -213,7 +213,7 @@ sub_list=f(my_list, st_ind, end_ind)
 print(sub_list)
 ```
 
-
+<hr/>
 **Q7. Calculate the factorial of a number using lambda function.**
 
 ```
@@ -224,7 +224,7 @@ num=5
 calculated_factorial = getFactorial(num)
 print(calculated_factorial)
 ```
-
+<hr/>
 **Q8. Some neat tricks up her sleeve:**
 
 Looking at the below code, write down the final values of A0, A1, ...An
@@ -262,7 +262,7 @@ A8: [2, 4, 6, 8]
 A9: ["want", "learn", "python"]
 
 ```
-
+<hr/>
 
 **Q9.**
 Write a func that takes 3 args:
@@ -295,7 +295,7 @@ else:
 	print(False)
 
 ```
-
+<hr/>
 **Q10. Of date and days**
 Write a func that takes 2 args:
 date - string representing a date in the form of 'yy-mm-dd'
@@ -319,7 +319,7 @@ previous_date = of_date_and_days( given_date, n)
 
 print(previous_date)
 ```
-
+<hr/>
 
 **Q.11 Find output of following:**
 
